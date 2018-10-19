@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: palevioletred;
+  padding: 25px 50px;
+  line-height: 2.2rem;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+  letter-spacing: 0.8rem;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 1.2rem;
+}
+
+p:nth-child(4) {
+  font-size: 1.4rem;
+}
