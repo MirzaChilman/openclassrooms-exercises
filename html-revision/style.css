@@ -1,0 +1,22 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(228, 189, 202);
+}
+
+h1 {
+  color: palevioletred;
+  text-transform: capitalize;
+}
+
+h3 {
+  color: salmon;
+}
+
+a {
+  text-decoration: none;
+  color: rebeccapurple;
+}
+
+a:hover {
+  border-bottom: 1px solid black;
+}
